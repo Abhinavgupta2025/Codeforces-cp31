@@ -14,6 +14,6 @@ int main(){
         long long maxwheels = wheels/4;
         long long minwheels = (wheels + 5)/6;
         cout<<minwheels<<" "<<maxwheels<<endl;
-    }₹
+    }
     return 0;
 }
